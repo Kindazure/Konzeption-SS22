@@ -66,6 +66,10 @@ body pre {
     transform: translate(-50%, -50%);
 }
 
+.content-1300 {
+    width: 1300px;    
+}
+
 .content-1170 {
     width: 1170px;    
 }
